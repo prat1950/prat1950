@@ -5,16 +5,16 @@ I am pursuing a B.Tech at Vellore Institute of Technology, Vellore in Computer S
 
 Currently, I am interning as a Software Engineer Intern in Web Development at Metaplore.
 
-**Past Projects**:
+**Past Projects**
 - Using NLP to build a sustainability rater for a Client
 - Using Web Scraping to build Amazon Scraping Bot for Bestseller Page
 - Using Market Data to build a Machine learning model to determine Market Attractiveness for a Client
 
-**What I'm Learning Right Now:**:
+**What I'm Learning Right Now:**
 - Front-End Development with ReactJS
 - Back-End Development with Django and Postgres SQL 
 
- **My interests:**:
+ **My interests:**
 - Web Development with ReactJS and Django
 - Data Structures and Algorithms in C++
 - Data Analysis and Visualisation with Python, Excel and Tableau
@@ -22,7 +22,7 @@ Currently, I am interning as a Software Engineer Intern in Web Development at Me
 
 
 
-📫 **Contact me by**:
+📫 **Contact me by**
 - Email (pratiksenapati2018@gmail.com)
 - LinkedIn https://www.linkedin.com/in/pratik-senapati-6b0896220/
 

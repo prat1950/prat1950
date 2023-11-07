@@ -12,7 +12,7 @@ Currently, I am interning as a Software Engineer Intern in Web Development at Me
 
 **What I'm Learning Right Now:**:
 - Front-End Development with ReactJS
-- Back-End Development with Django and ReactJS 
+- Back-End Development with Django and Postgres SQL 
 
  **My interests:**:
 - Web Development with ReactJS and Django

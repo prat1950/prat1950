@@ -3,18 +3,19 @@
 
 I am pursuing a B.Tech at Vellore Institute of Technology, Vellore in Computer Science and Engineering. 
 
-Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern in Data.
+Currently, I am interning as a Software Engineer Intern in Web Development at Metaplore.
 
-**Current Projects**:
+**Past Projects**:
 - Using NLP to build a sustainability rater for a Client
 - Using Web Scraping to build Amazon Scraping Bot for Bestseller Page
 - Using Market Data to build a Machine learning model to determine Market Attractiveness for a Client
 
 **What I'm Learning Right Now:**:
 - Front-End Development with ReactJS
+- Back-End Development with Django and ReactJS 
 
  **My interests:**:
-- Web Development with MERN
+- Web Development with ReactJS and Django
 - Data Structures and Algorithms in C++
 - Data Analysis and Visualisation with Python, Excel and Tableau
 - Machine Learning and Deep Learning
@@ -49,6 +50,8 @@ Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern
     <a href="https://"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Redux"></a>
     <a href="https://"><img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"></a> -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"></a>
+      <a href="https://"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React-router"></a>
+  <a href="https://"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
    <a href="https://"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"></a>
     <a href="https://"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
     <a href="https://"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>

@@ -6,6 +6,9 @@ Currently, I am interning as a Software Engineer Intern in Web Development at Me
 
 Additionally, I'm an upcoming Summer Software Intern at Marvell, Bangalore.
 
+**Current Projects**
+- Building a Full-Stack CRUD Website with ReactJS, Django and PostgreSQL
+
 
 **Past Projects**
 - Using NLP to build a sustainability rater for a Client
@@ -15,11 +18,11 @@ Additionally, I'm an upcoming Summer Software Intern at Marvell, Bangalore.
 **What I'm Learning Right Now:**
 - Front-end development with ReactJS
 - Front-end development with AngularTS
-- Back-end development with Django and Postgres SQL 
+- Back-end development with Django and PostgreSQL 
 
  **My interests:**
 - Front-End Web Development with ReactJS, AngularTS
-- Back-End Development with Django and PostgreSQL
+- Back-end development with Django and PostgreSQL
 - Data Structures and Algorithms in C++
 - Data Analysis and Visualisation with Python, Excel, and Tableau
 - Machine Learning and Deep Learning
